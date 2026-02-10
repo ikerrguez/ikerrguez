@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Actualmente estoy aprendiendo a programar usando Java.  <br> Hago diagramas de flujo y practico la lógica de programación con PseInt. <br>Trabajo con bases de datos relacionales usando MySQL.<br><br>🎯 Objetivos: Mejorar mis habilidades programando en Java. <br>
+<p align="left">📚 Actualmente estoy aprendiendo a programar usando Java.  <br> Hago diagramas de flujo y practico la lógica de programación con PseInt. <br> Aprendiendo HTML y CSS utilizando Visual Studio Code. <br>Trabajo con bases de datos relacionales usando MySQL.<br><br>🎯 Objetivos: Mejorar mis habilidades programando en Java. <br>
 Aprender más sobre CSS y la gestión de base de datos.<br></p>
 
 ###
