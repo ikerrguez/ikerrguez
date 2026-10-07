@@ -41,17 +41,7 @@ Página web desarrollada con WordPress para una casa rural, trabajando en el dis
 
 ###
 
-<p align="left">
-☕ Java &nbsp;&nbsp;
-🌱 Spring Boot &nbsp;&nbsp;
-⚛️ React &nbsp;&nbsp;
-🔷 TypeScript &nbsp;&nbsp;
-🌐 HTML &nbsp;&nbsp;
-🎨 CSS &nbsp;&nbsp;
-🟨 JavaScript &nbsp;&nbsp;
-🐬 MySQL &nbsp;&nbsp;
-🧩 PSeInt
-</p>
+<p align="left"> ☕ Java &nbsp;&nbsp; 🌱 Spring Boot &nbsp;&nbsp; ⚛️ React &nbsp;&nbsp; 🔷 TypeScript &nbsp;&nbsp; 🌐 HTML &nbsp;&nbsp; 🎨 CSS &nbsp;&nbsp; 🟨 JavaScript &nbsp;&nbsp; 🐬 MySQL &nbsp;&nbsp; 📝 WordPress &nbsp;&nbsp; 🧩 PSeInt </p>
 
 ###
 
