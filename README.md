@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">📚 Actualmente estoy aprendiendo a programar usando Java.  <br> Hago diagramas de flujo y practico la lógica de programación con PseInt. <br> Aprendiendo HTML y CSS utilizando Visual Studio Code. <br>Trabajo con bases de datos relacionales usando MySQL.<br><br>🎯 Objetivos: Mejorar mis habilidades programando en Java. <br>
+<p align="left">📚 Actualmente estoy aprendiendo a programar usando Java.  <br> 
+Hago diagramas de flujo y practico la lógica de programación con PseInt. <br> 
+Aprendiendo HTML y CSS utilizando Visual Studio Code. <br>
+Trabajo con bases de datos relacionales usando MySQL.<br><br>
+
+🎯 Objetivos: Mejorar mis habilidades programando en Java. <br>
 Aprender más sobre CSS y la gestión de base de datos.<br></p>
 
 ###
@@ -22,7 +27,7 @@ Aprender más sobre CSS y la gestión de base de datos.<br></p>
 <div align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/5/56/png-clipart-website-development-html5-logo-world-wide-web-consortium-world-wide-web-angle-web-design-thumbnail.png" height="40" alt=" html logo"  />
+  <img src="https://e7.pngegg.com/pngimages/5/56/png-clipart-website-development-html5-logo-world-wide-web-consortium-world-wide-web-angle-web-design-thumbnail.png" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" height="40" alt="css logo"  />
   <img width="12" />
@@ -31,5 +36,9 @@ Aprender más sobre CSS y la gestión de base de datos.<br></p>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/1200/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.jpg" height="40" alt="mysql logo"  />
   <img width="12" />
 </div>
+
+###
+
+<p align="left">🤝 Si quieres conectar conmigo, puedes visitar mi <a href="https://www.linkedin.com/in/iker-rodr%C3%ADguez-garc%C3%ADa-7115bb292/" target="_blank">LinkedIn</a>.</p>
 
 ###
