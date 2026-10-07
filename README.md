@@ -32,6 +32,9 @@ Juego desarrollado en Java aplicando programación orientada a objetos, clases, 
 🔹 <a href="https://github.com/ikerrguez/Portafolio-Iker"><strong>Portfolio personal</strong></a><br>
 Página web personal desarrollada con HTML y CSS para mostrar mis proyectos, conocimientos y formación.
 
+🔹 <a href="https://casadecarnes.blog/"><strong>A Casa de Carnés</strong></a><br>
+Página web desarrollada con WordPress para una casa rural, trabajando en el diseño, estructura y contenido de la web.
+
 ###
 
 <h2 align="left">💻 Trabajo con</h2>
