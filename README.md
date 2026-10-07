@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Iker y soy estudiante de desarrollo de aplicaciones web.</p>
+<p align="left">Mi nombre es Iker y soy estudiante de Desarrollo de Aplicaciones Web (DAW) 💻.</p>
 
 ###
 
