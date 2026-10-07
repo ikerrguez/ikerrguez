@@ -10,35 +10,48 @@
 
 ###
 
-<p align="left">📚 Actualmente estoy aprendiendo a programar usando Java.  <br> 
-Hago diagramas de flujo y practico la lógica de programación con PseInt. <br> 
-Aprendiendo HTML y CSS utilizando Visual Studio Code. <br>
-Trabajo con bases de datos relacionales usando MySQL.<br><br>
+📚 Actualmente estoy aprendiendo y trabajando con diferentes tecnologías dentro del desarrollo web.
 
-🎯 Objetivos: Mejorar mis habilidades programando en Java. <br>
-Aprender más sobre CSS y la gestión de base de datos.<br></p>
+Trabajo principalmente con Java y Spring Boot en el desarrollo web en entorno servidor, junto con MySQL para la gestión de bases de datos.
 
-###
+En desarrollo web en entorno cliente estoy aprendiendo React y TypeScript, creando aplicaciones web responsive y trabajando con componentes, JSON y gestión de datos.
 
-<h2 align="left">Trabajo con</h2>
+También sigo practicando HTML, CSS y JavaScript, además de lógica de programación con PSeInt.
+
+🎯 **Objetivos:** Seguir mejorando mis conocimientos de Java y Spring Boot, aprender más sobre React y TypeScript y continuar mejorando mis habilidades en bases de datos y desarrollo web.
 
 ###
 
-<div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/5/56/png-clipart-website-development-html5-logo-world-wide-web-consortium-world-wide-web-angle-web-design-thumbnail.png" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://pseint.sourceforge.net/logo-header.png" height="40" alt="pseint logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/1200/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.jpg" height="40" alt="mysql logo"  />
-  <img width="12" />
-</div>
+<h2 align="left">🚀 Proyectos destacados</h2>
 
 ###
 
-<p align="left">🤝 Si quieres conectar conmigo, puedes visitar mi <a href="https://www.linkedin.com/in/iker-rodr%C3%ADguez-garc%C3%ADa-7115bb292/" target="_blank">LinkedIn</a>.</p>
+🔹 <a href="https://github.com/ikerrguez/Hundir-la-flota"><strong>Hundir la Flota</strong></a><br>
+Juego desarrollado en Java aplicando programación orientada a objetos, clases, herencia, colecciones y lógica de programación.
+
+🔹 <a href="https://github.com/ikerrguez/Portafolio-Iker"><strong>Portfolio personal</strong></a><br>
+Página web personal desarrollada con HTML y CSS para mostrar mis proyectos, conocimientos y formación.
 
 ###
+
+<h2 align="left">💻 Trabajo con</h2>
+
+###
+
+<p align="left">
+☕ Java &nbsp;&nbsp;
+🌱 Spring Boot &nbsp;&nbsp;
+⚛️ React &nbsp;&nbsp;
+🔷 TypeScript &nbsp;&nbsp;
+🌐 HTML &nbsp;&nbsp;
+🎨 CSS &nbsp;&nbsp;
+🟨 JavaScript &nbsp;&nbsp;
+🐬 MySQL &nbsp;&nbsp;
+🧩 PSeInt
+</p>
+
+###
+
+<p align="left">
+🔗 Si quieres conectar conmigo, puedes visitar mi <a href="https://www.linkedin.com/in/iker-rodríguez-garcía-7115bb292/">LinkedIn</a>.
+</p>
