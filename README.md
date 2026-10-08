@@ -26,13 +26,13 @@ También sigo practicando HTML, CSS y JavaScript, además de lógica de programa
 
 ###
 
-🔹 <a href="https://github.com/ikerrguez/Hundir-la-flota"><strong>Hundir la Flota</strong></a><br>
+🔹 <a href="https://github.com/ikerrguez/Hundir-la-flota" target="_blank"><strong>Hundir la Flota</strong></a><br>
 Juego desarrollado en Java aplicando programación orientada a objetos, clases, herencia, colecciones y lógica de programación.
 
-🔹 <a href="https://ikerrguez.github.io/Portfolio/"><strong>Portfolio personal</strong></a><br>
+🔹 <a href="https://ikerrguez.github.io/Portfolio/" target="_blank"><strong>Portfolio personal</strong></a><br>
 Página web personal desarrollada con HTML y CSS para mostrar mis proyectos, conocimientos y formación.
 
-🔹 <a href="https://casadecarnes.blog/"><strong>A Casa de Carnés</strong></a><br>
+🔹 <a href="https://casadecarnes.blog/" target="_blank"><strong>A Casa de Carnés</strong></a><br>
 Página web desarrollada con WordPress para una casa rural, trabajando en el diseño, estructura y contenido de la web.
 
 ###
