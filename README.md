@@ -29,7 +29,7 @@ También sigo practicando HTML, CSS y JavaScript, además de lógica de programa
 🔹 <a href="https://github.com/ikerrguez/Hundir-la-flota"><strong>Hundir la Flota</strong></a><br>
 Juego desarrollado en Java aplicando programación orientada a objetos, clases, herencia, colecciones y lógica de programación.
 
-🔹 <a href="https://github.com/ikerrguez/Portafolio-Iker"><strong>Portfolio personal</strong></a><br>
+🔹 <a href="https://ikerrguez.github.io/Portfolio/"><strong>Portfolio personal</strong></a><br>
 Página web personal desarrollada con HTML y CSS para mostrar mis proyectos, conocimientos y formación.
 
 🔹 <a href="https://casadecarnes.blog/"><strong>A Casa de Carnés</strong></a><br>
